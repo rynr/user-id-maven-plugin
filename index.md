@@ -74,5 +74,4 @@ Links
  - [Info](https://rynr.github.io/user-id-maven-plugin/)
  - [Github](https://github.com/rynr/user-id-maven-plugin)
  - [Bugs](https://github.com/rynr/user-id-maven-plugin/issues)
- - [![Build Status](https://travis-ci.org/rynr/user-id-maven-plugin.svg?branch=master)](https://travis-ci.org/rynr/user-id-maven-plugin) [![Maven Central](https://img.shields.io/maven-central/v/org.rjung.util/user-id-maven-plugin.svg)](http://mvnrepository.com/artifact/org.rjung.util/user-id-maven-plugin) [![Javadocs](http://www.javadoc.io/badge/rynr/user-id-maven-plugin.svg)](http://www.javadoc.io/doc/org.rjung.util/user-id-maven-plugin)
-
+ - [![Build Status](https://travis-ci.org/rynr/user-id-maven-plugin.svg?branch=master)](https://travis-ci.org/rynr/user-id-maven-plugin) [![Javadocs](https://www.javadoc.io/badge/org.rjung.util/user-id-maven-plugin.svg)](https://www.javadoc.io/doc/org.rjung.util/user-id-maven-plugin)
