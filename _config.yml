@@ -1,0 +1,8 @@
+title: user-id-maven-plugin
+description: Provide the property `user.id` on unix-like systems.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
